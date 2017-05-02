@@ -1,0 +1,28 @@
+.section-friend {
+    height: 260px;
+}
+
+h2 {
+    font-family: 'Wendy One', sans-serif;
+    text-align: center;
+    margin-top: 60px;
+}
+
+p {
+    font-family: 'Wendy One', sans-serif;
+    text-align: center;
+}
+
+.btn {
+    margin-left: 550px;
+}
+
+.parallax-container {
+    height: 430px;
+}
+
+.footer {
+    height: 20px;
+    line-height: 3em;
+    text-align: center;
+}
