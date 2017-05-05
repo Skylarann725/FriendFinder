@@ -288,7 +288,7 @@
                         console.log('friendsData[i].scores.length', friendsData[i].scores.length);
                         // loop through each score of userData
                         for (var j = 0; j < userData.scores.length; j++) {
-                            // calculate the total difference between friend's scores and user scores
+                            // calculates the absolute positive of the total difference between friend's scores and user scores
                             var totalDifference = Math.abs(friendsData[i].scores[j] - userData.scores[j]);
                             // add each total difference to scoreDifference
                             scoreDifference += totalDifference;
@@ -317,7 +317,6 @@
         } // end of else statement
 
         return false;
-
 
         // function to display new friends in modal
         function modalStart(friendMatch) {
