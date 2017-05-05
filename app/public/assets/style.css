@@ -8,6 +8,16 @@ h2 {
     margin-top: 60px;
 }
 
+h3 {
+    font-family: 'Bitter', serif;
+    font-size: 30px;
+}
+
+h4 {
+    font-family: 'Bitter', serif;
+    font-size: 20px;
+}
+
 p {
     font-family: 'Wendy One', sans-serif;
     text-align: center;
@@ -24,5 +34,14 @@ p {
 .footer {
     height: 20px;
     line-height: 3em;
+    text-align: center;
+}
+
+#submit {
+    margin-left: 0;
+    width: 100%;
+}
+
+.header-info {
     text-align: center;
 }
