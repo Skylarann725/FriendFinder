@@ -1,6 +1,7 @@
 // Dependencies
 var express = require("express");
 var bodyParser = require("body-parser");
+var fs = require('fs');
 
 var app = express();
 // Sets an initial port. We"ll use this later in our listener
