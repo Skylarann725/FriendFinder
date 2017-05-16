@@ -12,7 +12,7 @@ var friendsArray = [{
 	scores: ["1", "2", "3", "4", "1", "2", "3", "4", "1", "2"]
 }, {
 	name: "Harold",
-	photo: "./assets/images/Herald.jpg",
+	photo: "./assets/images/Harold.jpg",
 	scores: ["2", "1", "4", "3", "2", "1", "1", "1", "3", "4"]
 }];
 

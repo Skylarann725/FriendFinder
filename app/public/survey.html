@@ -322,7 +322,7 @@
         function modalStart(friendMatch) {
 
             $("#matchName").append(friendMatch.name);
-            $("#matchImg").append(friendMatch.photo);
+            $("#matchImg").attr('src', friendMatch.photo);
 
             $('#resultsModal').modal('open');
         }
