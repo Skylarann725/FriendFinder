@@ -8,7 +8,7 @@ var friendsArray = [{
 	scores: ["1", "2", "1", "3", "4", "1", "3", "4", "1", "3"]
 }, {
 	name: "Gerald",
-	photo: ".assets/images/Gerald.jpg",
+	photo: "./assets/images/Gerald.jpg",
 	scores: ["1", "2", "3", "4", "1", "2", "3", "4", "1", "2"]
 }, {
 	name: "Harold",
