@@ -1,18 +1,18 @@
 var friendsArray = [{
     name: "Arnold",
-    photo: "../images/Arnold.jpg",
+    photo: "./assets/images/Arnold.jpg",
     scores: ["4", "4", "4", "4", "4", "4", "1", "1", "1", "2"]
 }, {
 	name: "Helga",
-	photo: "../images/Helga.jpg",
+	photo: "./assets/images/Helga.jpg",
 	scores: ["1", "2", "1", "3", "4", "1", "3", "4", "1", "3"]
 }, {
 	name: "Gerald",
-	photo: "../images/Gerald.jpg",
+	photo: ".assets/images/Gerald.jpg",
 	scores: ["1", "2", "3", "4", "1", "2", "3", "4", "1", "2"]
 }, {
 	name: "Harold",
-	photo: "../images/Herald.jpg",
+	photo: "./assets/images/Herald.jpg",
 	scores: ["2", "1", "4", "3", "2", "1", "1", "1", "3", "4"]
 }];
 
